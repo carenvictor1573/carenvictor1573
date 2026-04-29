@@ -1,29 +1,95 @@
-Hi, I'm Caren Victor 👋
 
-I'm a Computer Science BS-MS student with hands-on experience in building scalable, cloud-based applications using AWS. I enjoy working at the intersection of data, cloud, and real-world problem solving.
+# 👋 Hi, I'm Caren Victor
 
-🔍 I have worked on projects involving:
-- Cloud intrusion detection systems (real-time monitoring & alerting)
-- Serverless web applications using AWS Lambda, API Gateway, and DynamoDB
-- No-code machine learning models for user behavior prediction
+🚀 *Aspiring Data Scientist | Cloud Enthusiast | AWS Certified*
 
-💡 My technical interests include:
-- Data Science & Analytics
-- Cloud Computing (AWS)
-- Building serverless and data-driven applications
+---
 
-🛠️ Tech Stack:
-- Languages: Python, Java, SQL
-- Cloud: AWS (Lambda, S3, API Gateway, DynamoDB, CloudWatch, CloudTrail, SNS, Cognito)
-- Databases: MySQL, Oracle, DynamoDB
+## 🌟 About Me
 
-📊 I also have experience in data analysis through my internship, where I worked on regulatory data collection and stakeholder-driven insights.
+💻 Computer Science BS-MS student passionate about building **scalable cloud solutions** and **data-driven applications**.
+☁️ Hands-on experience with **AWS serverless architecture** and **real-time systems**.
+📊 Strong interest in **Data Science, Analytics, and Cloud Security**.
 
-🎯 Currently:
-- Preparing for GATE
-- Strengthening my skills in Data Science and Cloud technologies
-- Building impactful, real-world projects
+---
 
-📫 Reach me at:
-- Email: carenvictor1573@gmail.com
-- LinkedIn: linkedin.com/in/caren-victor
+## 🚀 Projects
+
+🔐 **Sentinel Zero – Cloud Intrusion Detection System**
+
+* Real-time threat detection using AWS CloudTrail, CloudWatch & Lambda
+* Automated alerts & response using SNS and IAM
+
+📈 **No-Code Business Predictor (AWS)**
+
+* Built ML model using AWS SageMaker Canvas
+* Predicted user churn based on behavioral data
+
+💰 **Serverless Personal Finance Manager**
+
+* Full-stack app using Lambda, API Gateway, DynamoDB
+* Secure authentication with AWS Cognito
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge\&logo=awslambda\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge\&logo=amazonapigateway\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Caren's GitHub stats](https://github-readme-stats.vercel.app/api?username=carenvictor1573\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carenvictor1573\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=carenvictor1573\&theme=tokyonight)
+
+---
+
+## 🎯 Current Focus
+
+📚 Preparing for **GATE**
+📊 Learning **Data Science & Analytics deeply**
+☁️ Building more **AWS-based real-world projects**
+
+---
+
+## 🏆 Achievements
+
+✅ AWS Certified Cloud Practitioner
+📍 Data Science Workshop – BITS Pilani, Hyderabad
+📊 Internship experience in data analysis & policy research
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [carenvictor1573@gmail.com](mailto:carenvictor1573@gmail.com)
+🔗 LinkedIn: [https://linkedin.com/in/caren-victor](https://linkedin.com/in/caren-victor)
+
+---
+
+Just tell me 👍
