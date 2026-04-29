@@ -55,31 +55,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Caren's GitHub stats](https://github-readme-stats.vercel.app/api?username=carenvictor1573\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carenvictor1573\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=carenvictor1573\&theme=tokyonight)
-
----
 
 ## 🎯 Current Focus
 
-📚 Preparing for **GATE**
-📊 Learning **Data Science & Analytics deeply**
+📚 Preparing for aws cloud practitioner exam
+📊 Learning DevOps
 ☁️ Building more **AWS-based real-world projects**
 
 ---
 
 ## 🏆 Achievements
 
-✅ AWS Certified Cloud Practitioner
 📍 Data Science Workshop – BITS Pilani, Hyderabad
 📊 Internship experience in data analysis & policy research
 
@@ -91,5 +77,3 @@
 🔗 LinkedIn: [https://linkedin.com/in/caren-victor](https://linkedin.com/in/caren-victor)
 
 ---
-
-Just tell me 👍
