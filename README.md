@@ -61,25 +61,24 @@
 
 ---
 
-
 ## 🎯 Current Focus
 
-📚 Preparing for aws cloud practitioner exam
-📊 Learning DevOps
-☁️ Building more **AWS-based real-world projects**
+- 📚 Preparing for AWS Cloud Practitioner exam  
+- 📊 Learning DevOps  
+- ☁️ Building more AWS-based real-world projects  
 
 ---
 
 ## 🏆 Achievements
 
-📍 Data Science Workshop – BITS Pilani, Hyderabad
-📊 Internship experience in data analysis & policy research
+- 📍 Data Science Workshop – BITS Pilani, Hyderabad  
+- 📊 Internship experience in data analysis & policy research  
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-📧 Email: [carenvictor1573@gmail.com](mailto:carenvictor1573@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/caren-victor](https://linkedin.com/in/caren-victor)
+- 📧 Email: carenvictor1573@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/caren-victor
 
 ---
