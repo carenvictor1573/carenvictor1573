@@ -20,7 +20,7 @@
 * Real-time threat detection using AWS CloudTrail, CloudWatch & Lambda
 * Automated alerts & response using SNS and IAM
 
-📈 **No-Code Business Predictor (AWS)**
+📈 **No-Code Churn Prediction System (AWS)**
 
 * Built ML model using AWS SageMaker Canvas
 * Predicted user churn based on behavioral data
