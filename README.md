@@ -7,9 +7,10 @@
 
 ## 🌟 About Me
 
-💻 Computer Science BS-MS student passionate about building **scalable cloud solutions** and **data-driven applications**.
-☁️ Hands-on experience with **AWS serverless architecture** and **real-time systems**.
-📊 Strong interest in **Data Science, Analytics, and Cloud Security**.
+- 💻 Computer Science BS-MS student passionate about building scalable cloud solutions  
+- ☁️ Hands-on experience with AWS serverless architecture and real-time systems  
+- 📊 Strong interest in Data Science, Analytics, and Cloud Security  
+- 🚀 Focused on solving real-world problems through cloud and AI technologies  
 
 ---
 
